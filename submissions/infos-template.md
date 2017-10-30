@@ -2,8 +2,9 @@
 
 ## Metadata:
 
-* Track name     :
-* Version        :
-* Save included? :
+* Track name        :
+* Version           :
+* Save included?    :
+* Explicit license? :
 
 ## Explainations:

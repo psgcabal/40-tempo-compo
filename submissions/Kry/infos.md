@@ -2,9 +2,10 @@
 
 ## Metadata:
 
-* Track name     : AOI 
-* Version        : 5.4.5
-* Save included? : Yes
+* Track name        : AOI 
+* Version           : 5.4.5
+* Save included?    : Yes
+* Explicit license? : No
 
 ## Explainations:
 
