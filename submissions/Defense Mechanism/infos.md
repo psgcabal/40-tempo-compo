@@ -5,7 +5,7 @@
 * Track name        : slow (?)
 * Version           : 5.7.4
 * Save included?    : Yes
-* Explicit License? :
+* Explicit License? : Yes (public domain)
 
 ## Explainations:
 
