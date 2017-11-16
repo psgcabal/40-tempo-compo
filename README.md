@@ -6,10 +6,11 @@ Submissions and webpage for the 40 tempo compo held in PSG Cabal's Discord.
 | Aquellex             |                  |
 | Catchinashes         |                  |
 | DBOYD                |                  |
-| Defense Mechanism    |  ¿               |
-| Kry                  |  ¿               |
+| Defense Mechanism    |  Yes!            |
+| Kry                  |  Yes!            |
 | Nanoplink            |                  |
 | Nintenkwondo         |                  |
-| Paul fron Pain Perdu |                  |
+| Paul from Pain Perdu |                  |
+| Pu1sewave            |  Yes!            |
 | Starshine            |                  |
 | Vault Kid            |                  |
